@@ -5,7 +5,8 @@
     },
     "extensionsUsed" : [
         "KHR_materials_transmission",
-        "KHR_materials_ior"
+        "KHR_materials_ior",
+        "KHR_materials_volume"
     ],
     "scene" : 0,
     "scenes" : [
