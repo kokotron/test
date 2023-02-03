@@ -60,7 +60,10 @@
                     "transmissionFactor" : 1
                 },
                 "KHR_materials_ior" : {
-                    "ior" : 2.450000047683716
+                    "ior" : 2.45
+                },
+                "KHR_materials_volume": {
+                    "thicknessFactor": 0.01
                 }
             },
             "name" : "m_glass",
